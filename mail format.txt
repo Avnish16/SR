@@ -1,0 +1,26 @@
+Forward To Smart Reply
+---- Customer Email attached as file OriginalMsg.eml ----
+
+G502R511MG805KEK.00051aMDQJ6G06WR.
+------------------------------------------------------
+
+Hier ist Platz für Ihre Rückmeldung.
+
+------------------------------------------------------
+G502R511MG805KEK 00051aMDQJ6G06WR.
+
+
+<contact-form>False</contact-form>
+<parent-interaction-id>00051aMDQJ6G06GH</parent-interaction-id>
+<customer-email-address>xyz@outlook.com</customer-email-address>
+<category>Allgemein</category>
+<subcategory>None</subcategory>
+
+___________________________________________________
+Mit freundlichen Grüßen
+Ihr Postbank E-Mail-Team
+
+E-Mail-Service
+Deutsche Bank | Operations PB Germany
+Betriebs-Center für Banken AG
+direkt@postbank.de
