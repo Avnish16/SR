@@ -9,9 +9,9 @@ from pathlib import Path
 # CONFIGURATION
 # ==============================================================
 
-SENDER_EMAIL = "avnishkardekar@gmail.com"
+SENDER_EMAIL = "xyz@gmail.com"
 APP_PASSWORD = "rvql wgvw wuun kwfr"  # create in Outlook account security
-RECEIVER_EMAIL = "avnishkardekar@outlook.com"
+RECEIVER_EMAIL = "abc@outlook.com"
 ATTACHMENT_PATH = "OriginalMsg.eml"  # must exist in same folder or specify full path
 TOTAL_EMAILS = 5
 
@@ -47,7 +47,7 @@ def build_email(interaction_id, parent_id):
 Hier ist Platz für Ihre Rückmeldung.
 
 ------------------------------------------------------
-{interaction_id.replace('.', ' ')}
+{interaction_id}
 
 
 <contact-form>False</contact-form>

@@ -8,10 +8,10 @@ mailItem = olApp.CreateItem(0)
 mailItem.Subject = 'Hello 123'
 mailItem.BodyFormat = 1
 mailItem.Body = 'Hello There'
-mailItem.To = 'avnishkardekar@outlook.com'
+mailItem.To = 'mail@outlook.com'
 mailItem.Sensitivity  = 2
 # optional (account you want to use to send the email)
-mailItem._oleobj_.Invoke(*(64209, 0, 8, 0, olNS.Accounts.Item('avnishkardekar@outlook.com')))
+mailItem._oleobj_.Invoke(*(64209, 0, 8, 0, olNS.Accounts.Item('aqw@outlook.com')))
 mailItem.Display()
 # mailItem.Save()
 # mailItem.Send()
