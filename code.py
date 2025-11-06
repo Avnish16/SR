@@ -10,7 +10,7 @@ from pathlib import Path
 # ==============================================================
 
 SENDER_EMAIL = "xyz@gmail.com"
-APP_PASSWORD = "rvql wgvw wuun kwfr"  # create in Outlook account security
+APP_PASSWORD = "pass"  # create in Outlook account security
 RECEIVER_EMAIL = "abc@outlook.com"
 ATTACHMENT_PATH = "OriginalMsg.eml"  # must exist in same folder or specify full path
 TOTAL_EMAILS = 5
